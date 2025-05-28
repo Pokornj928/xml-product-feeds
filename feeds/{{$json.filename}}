@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
-    <title>Product Feed - undefined</title>
+    <title>Product Feed - full</title>
     <description>Complete Product Catalog</description>
-    <link>https://your-store.com</link>
-    <lastBuildDate>2025-05-28T20:27:47.557Z</lastBuildDate>
+    <link>https://tamdaexpress.eu</link>
+    <lastBuildDate>2025-05-28T20:33:47.210Z</lastBuildDate>
     <generator>n8n + Airtable Automation</generator>
 
     <item>
       <g:id>363</g:id>
       <title>Indiana Jerky Hot 25g</title>
+      <description>Indiana Jerky Hot 25g je ideální volbou pro milovníky pikantních chutí. Toto sušené maso je vyrobeno z kvalitního hovězího masa a je ochuceno směsí koření, která dodává intenzivní a pikantní chuť. Je to skvělý snack pro každou příležitost, ať už jste na cestách, v práci nebo si jen chcete dopřát něco chutného a výživného. Indiana Jerky je známé svou vysokou kvalitou a pečlivým zpracováním, které zajišťuje, že každý kousek je plný chuti a výživných látek.
+
+Složení: Hovězí maso, Jedlá sůl, Sůl z mrtvého moře, Cukr, Bílkovinný sojový hydrolyzát, Kvasnicový extrakt, Vinný ocet, Dextróza, Pepř, Aroma, Kouřové aroma, Česnek, Konzervant: dusitan sodný. 100 g hovězího Jerky je vyrobeno z 225 g hovězího masa. Alergeny: Obsahuje Sója.
+
+Nutriční hodnoty na 100g: Energetická hodnota 1290 kJ / 306 kcal, Tuky 5,8 g (z toho nasycené mastné kyseliny 2,1 g), Sacharidy 9,2 g (z toho cukry 3,6 g), Bílkoviny 46 g, Sůl 2,8 g, Vláknina 0 g.</description>
+      <g:image_link>https://d2bswq8nxxn2zx.cloudfront.net/images/detailed/1171/4100094_lxff-g8.jpg?t=1745363634</g:image_link>
+      <link>https://tamdaexpress.eu/indiana-jerky-hot-25g-vi-6.html</link>
+      <g:product_type>Sušené maso</g:product_type>
+      <g:brand>Indiana</g:brand>
+      <g:gtin>8594055300144</g:gtin>
+      <g:shipping_weight>26g</g:shipping_weight>
+      <g:unit_pricing_measure>0.025 KG</g:unit_pricing_measure>
+      <g:tax_rate>12%</g:tax_rate>
+      <g:custom_label_0>Indiana 25g, Indiana Jerky, Indiana Hot, Indiana Jerky 25g, Indiana Jerky Hot</g:custom_label_0>
+      <g:expiration_date>2026-05-01</g:expiration_date>
+      <g:availability_text>Skladem</g:availability_text>
       <g:price>70.98 CZK</g:price>
       <g:availability>in stock</g:availability>
       <g:quantity>99</g:quantity>
