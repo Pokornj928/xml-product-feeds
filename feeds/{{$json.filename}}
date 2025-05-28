@@ -2,62 +2,23 @@
 <PRODUCTS version="1.0">
   <PRODUCT>
     <CODE>363</CODE>
-    <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
     <DESCRIPTIONS>
       <DESCRIPTION language="cs">
+        <ACTIVE_YN>1</ACTIVE_YN>
         <TITLE>Indiana Jerky Hot 25g</TITLE>
-        <LONG_DESCRIPTION><![CDATA[Indiana Jerky Hot 25g je ideální volbou pro milovníky pikantních chutí. Toto sušené maso je vyrobeno z kvalitního hovězího masa a je ochuceno směsí koření, která dodává intenzivní a pikantní chuť. Je to skvělý snack pro každou příležitost, ať už jste na cestách, v práci nebo si jen chcete dopřát něco chutného a výživného. Indiana Jerky je známé svou vysokou kvalitou a pečlivým zpracováním, které zajišťuje, že každý kousek je plný chuti a výživných látek.
-
-Složení: Hovězí maso, Jedlá sůl, Sůl z mrtvého moře, Cukr, Bílkovinný sojový hydrolyzát, Kvasnicový extrakt, Vinný ocet, Dextróza, Pepř, Aroma, Kouřové aroma, Česnek, Konzervant: dusitan sodný. 100 g hovězího Jerky je vyrobeno z 225 g hovězího masa. Alergeny: Obsahuje Sója.
-
-Nutriční hodnoty na 100g: Energetická hodnota 1290 kJ / 306 kcal, Tuky 5,8 g (z toho nasycené mastné kyseliny 2,1 g), Sacharidy 9,2 g (z toho cukry 3,6 g), Bílkoviny 46 g, Sůl 2,8 g, Vláknina 0 g.]]></LONG_DESCRIPTION>
-        <URL>https://tamdaexpress.eu/indiana-jerky-hot-25g-vi-6.html</URL>
       </DESCRIPTION>
     </DESCRIPTIONS>
-    <MANUFACTURER>Indiana</MANUFACTURER>
-    <EAN>8594055300144</EAN>
     <AVAILABILITY>Skladem</AVAILABILITY>
     <STOCK>99</STOCK>
-    <WEIGHT>26</WEIGHT>
-    <VATS>
-      <VAT country="CZ">12</VAT>
-    </VATS>
-    <CATEGORIES>
-      <CATEGORY>
-        <CODE>sušené_maso</CODE>
-        <n>Sušené maso</n>
-        <PRIMARY_YN>1</PRIMARY_YN>
-      </CATEGORY>
-    </CATEGORIES>
     <PRICES>
       <PRICE language="cs">
         <PRICELISTS>
           <PRICELIST>
+            <n></n>
             <PRICE_WITH_VAT>70.98</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
     </PRICES>
-    <IMAGES>
-      <IMAGE>
-        <URL>https://d2bswq8nxxn2zx.cloudfront.net/images/detailed/1171/4100094_lxff-g8.jpg?t=1745363634</URL>
-        <MAIN_YN>1</MAIN_YN>
-      </IMAGE>
-    </IMAGES>
-    <PARAMETERS>
-      <PARAMETER>
-        <n>klicove_slovo_1</n>
-        <VALUE language="cs">Indiana 25g</VALUE>
-      </PARAMETER>
-      <PARAMETER>
-        <n>klicove_slovo_2</n>
-        <VALUE language="cs">Indiana Jerky</VALUE>
-      </PARAMETER>
-      <PARAMETER>
-        <n>klicove_slovo_3</n>
-        <VALUE language="cs">Indiana Hot</VALUE>
-      </PARAMETER>
-    </PARAMETERS>
   </PRODUCT>
 </PRODUCTS>
